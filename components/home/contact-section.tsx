@@ -37,11 +37,8 @@ export default function ContactSection() {
         className="text-center"
       >
         <h2 className="text-3xl font-bold mb-6">Get in Touch</h2>
-        <p className="text-lg text-gray-600 dark:text-gray-300 mb-8 max-w-2xl mx-auto">
-          I'm eager to collaborate on exciting projects or explore career opportunities.
-          Feel free to connect!
-
-
+        <p className="text-lg text-gray-600 dark:text-gray-300 mb-6">
+          I&apos;m always interested in hearing about new opportunities.
         </p>
         <div className="flex justify-center gap-6">
           {socialLinks.map((link) => (

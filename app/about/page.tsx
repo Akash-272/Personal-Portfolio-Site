@@ -76,7 +76,7 @@ export default function About() {
         <h1 className="text-4xl font-bold mb-8">About Me</h1>
         <div className="prose dark:prose-invert max-w-none">
           <p className="text-lg mb-6">
-            Hi! I'm Akash Nalawade, a dedicated full-stack developer with a strong foundation
+            Hi! I&apos;m Akash Nalawade, a dedicated full-stack developer with a strong foundation
             in backend development and database management. I excel at building efficient,
             user-centric applications while leveraging modern technologies to solve real-world problems.
           </p>

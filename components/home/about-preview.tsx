@@ -16,7 +16,7 @@ export default function AboutPreview() {
       >
         <h2 className="text-3xl font-bold mb-6">About Me</h2>
         <p className="text-lg text-gray-600 dark:text-gray-300 mb-6">
-          I'm a dedicated software developer and intern with a strong foundation in backend development,
+          I&apos;m a dedicated software developer and intern with a strong foundation in backend development,
           database management, and creating efficient, user-centric solutions.
           My focus lies in building scalable, maintainable applications while solving real-world challenges.
         </p>
